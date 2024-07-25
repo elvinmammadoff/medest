@@ -76,6 +76,8 @@ a:focus {
 
 .carousel {
     background-color: #fbbd76;
+    position: relative;
+    overflow: hidden;
 }
 
 .carousel-control {
