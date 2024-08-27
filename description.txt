@@ -75,7 +75,7 @@
 <p><strong>Please note: the images that can be seen in the preview will not be included in the download package. These are for preview purposes only.</strong> Full credits list you can see on this page <a href="https://medest.netlify.app/documentation/index.html#credits" target="_blank">link</a></p>
 <h3 id="item-description__thank-you">Thank you:</h3><p>Thank you so much for using this template. Your comments and ratings would be much appreciated. Please don’t forget RATE for us.</p><p>If you purchase this template, you will get support. We will update this template time by time and we want to hear your wishes for the future updates or for complete new templates.
 </p><p>We are grateful to you.
-</p><p><strong>– Alissio –</strong></p>
+</p><p><strong>– Peachline –</strong></p>
 
 <h3 id="item-description__change-log">Change Log:</h3>
 <p>V. 1.0.0 – 27.08.2024</p>
